@@ -1,4 +1,6 @@
-package calculadora;
+
+
+import calculadora.calculadora;
 
 /**
  * Classe para execução de testes unitários manuais da Calculadora.
